@@ -1,3 +1,5 @@
 First file with initial code. 
 
 Hotfix applied.
+
+Second hotfix applied
